@@ -1,0 +1,56 @@
+body
+{
+    padding: 0;
+    background-color: rgb(190, 190, 190);
+}
+
+
+#seccion_1{
+    position: absolute;
+    background-color: aquamarine;
+    width: 20%;
+    height: 80%;
+    top: 20px;
+    left: 20px;
+
+}
+
+#seccion_2{
+    position: absolute;
+    background-color: cadetblue;
+    width: 60%;
+    height: 80%;
+    top: 20px;
+    left: 23%;
+
+}
+
+input[type=text]
+{
+    border-color: rgb(4, 196, 221);
+    border-radius:10px;
+}
+
+td
+{
+    font-style: italic;
+}
+
+#toners_registrados
+{
+    position: relative;
+    
+    height: 80%;
+    width: 50%;
+    top: -300px;
+    left: 200px;
+    background-color: white;
+    border-radius: 15px;
+
+}
+
+#toners_registrados table
+{   
+    width: 40%;
+    border: 2px;
+}
