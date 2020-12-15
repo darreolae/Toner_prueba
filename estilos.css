@@ -54,3 +54,10 @@ td
     width: 40%;
     border: 2px;
 }
+
+#titulo
+{
+    background-color: blue;
+    text-align: center;
+    padding-top: 250px;
+}
